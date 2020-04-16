@@ -23,17 +23,17 @@ Este é um projeto de uma aplicação de armazenamento de repositórios em um ar
 1. `git clone https://github.com/MatheusPires99/GoStack-11.0-Desafios-Nivel01 aula`
 2. `cd aula`
 
-## :gear: Node.js
+## :gear: Iniciando back-end - Node.js
 1. `cd backend`
 2. `yarn` ou `npm install`
 3. `yarn dev`
 
-## :computer: ReactJS
+## :computer: Inicinado front-end - ReactJS
 1. `cd frontend`
 2. `yarn` ou `npm install`
 3. `yarn start`
 
-## :iphone: React Native
+## :iphone: Iniciando mobile - React Native
 1. `cd mobile`
 2. `yarn` ou `npm install`
 3. `react-native run ios` ou `react-native run android`
