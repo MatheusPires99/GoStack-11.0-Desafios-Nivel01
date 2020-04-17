@@ -10,9 +10,9 @@
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-iniciando-back-end-node.js">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-inicinadofront-end-reactJS">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iphone-iniciando-mobile-react-native">React Native</a>
+  <a href="#gear-iniciando-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-inicinado-front-end">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-iniciando-mobile">React Native</a>
 </p>
 
 ## :page_with_curl: Sobre
@@ -32,17 +32,17 @@ Este é um projeto de uma aplicação de armazenamento de repositórios em um ar
 1. `git clone https://github.com/MatheusPires99/GoStack-11.0-Desafios-Nivel01 aula`
 2. `cd aula`
 
-## :gear: Iniciando back-end - Node.js
+## :gear: Iniciando back-end
 1. `cd backend`
 2. `yarn` ou `npm install`
 3. `yarn dev`
 
-## :computer: Inicinado front-end - ReactJS
+## :computer: Inicinado front-end
 1. `cd frontend`
 2. `yarn` ou `npm install`
 3. `yarn start`
 
-## :iphone: Iniciando mobile - React Native
+## :iphone: Iniciando mobile
 1. `cd mobile`
 2. `yarn` ou `npm install`
 3. `react-native run ios` ou `react-native run android`
